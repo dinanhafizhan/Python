@@ -1,0 +1,2 @@
+# Python
+Latihan git pemdas
